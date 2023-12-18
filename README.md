@@ -1,19 +1,18 @@
 <h1 align="center">Salut! 👋, Je m'apelle María</h1>
 <h3 align="center">Je suis frontend developer Junior</h3>
 
-- 🌱 I’m currently learning **React et NodeJS**
+- 🌱 J'apprends actuellement: Langages de programmation : Javascript et Ruby. Frameworks: Bootstrap, Rails et React.
 
-- 👨‍💻 All of my projects are available at [goo.gl/EUHm5q](goo.gl/EUHm5q)
+- 👨‍💻 D'autres de mes projets, sur la photographie, sont disponibles sur: [goo.gl/EUHm5q](goo.gl/EUHm5q)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/torremfteco/](https://www.linkedin.com/in/torremfteco/)
+- 📝 J'écris régulièrement des articles sur: [https://www.linkedin.com/in/torremfteco/](https://www.linkedin.com/in/torremfteco/)
 
-- 💬 Ask me about **html, css et javascript**
+- 💬 Demande moi à propos de **html, css et javascript**
 
-- 📫 How to reach me **torremfteco@gmail.com**
+- 📫 Comment me joindre **torremfteco@gmail.com**
 
-- 📄 Know about my experiences [torreinformacion@gmail.com](torreinformacion@gmail.com)
+- 📄 Demander plus de détails sur mes expériences: [torreinformacion@gmail.com](torreinformacion@gmail.com)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
